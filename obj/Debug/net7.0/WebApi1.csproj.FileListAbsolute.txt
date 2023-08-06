@@ -1,0 +1,117 @@
+C:\Users\fxe19\source\repos\WebApi1\WebApi1\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\fxe19\source\repos\WebApi1\WebApi1\bin\Debug\net7.0\appsettings.json
+C:\Users\fxe19\source\repos\WebApi1\WebApi1\bin\Debug\net7.0\WebApi1.exe
+C:\Users\fxe19\source\repos\WebApi1\WebApi1\bin\Debug\net7.0\WebApi1.deps.json
+C:\Users\fxe19\source\repos\WebApi1\WebApi1\bin\Debug\net7.0\WebApi1.runtimeconfig.json
+C:\Users\fxe19\source\repos\WebApi1\WebApi1\bin\Debug\net7.0\WebApi1.dll
+C:\Users\fxe19\source\repos\WebApi1\WebApi1\bin\Debug\net7.0\WebApi1.pdb
+C:\Users\fxe19\source\repos\WebApi1\WebApi1\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\fxe19\source\repos\WebApi1\WebApi1\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\fxe19\source\repos\WebApi1\WebApi1\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\fxe19\source\repos\WebApi1\WebApi1\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\fxe19\source\repos\WebApi1\WebApi1\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\fxe19\source\repos\WebApi1\WebApi1\obj\Debug\net7.0\WebApi1.csproj.AssemblyReference.cache
+C:\Users\fxe19\source\repos\WebApi1\WebApi1\obj\Debug\net7.0\WebApi1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fxe19\source\repos\WebApi1\WebApi1\obj\Debug\net7.0\WebApi1.AssemblyInfoInputs.cache
+C:\Users\fxe19\source\repos\WebApi1\WebApi1\obj\Debug\net7.0\WebApi1.AssemblyInfo.cs
+C:\Users\fxe19\source\repos\WebApi1\WebApi1\obj\Debug\net7.0\WebApi1.csproj.CoreCompileInputs.cache
+C:\Users\fxe19\source\repos\WebApi1\WebApi1\obj\Debug\net7.0\WebApi1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\fxe19\source\repos\WebApi1\WebApi1\obj\Debug\net7.0\WebApi1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fxe19\source\repos\WebApi1\WebApi1\obj\Debug\net7.0\staticwebassets\msbuild.WebApi1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\fxe19\source\repos\WebApi1\WebApi1\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApi1.props
+C:\Users\fxe19\source\repos\WebApi1\WebApi1\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApi1.props
+C:\Users\fxe19\source\repos\WebApi1\WebApi1\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApi1.props
+C:\Users\fxe19\source\repos\WebApi1\WebApi1\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\fxe19\source\repos\WebApi1\WebApi1\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\fxe19\source\repos\WebApi1\WebApi1\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\fxe19\source\repos\WebApi1\WebApi1\obj\Debug\net7.0\scopedcss\bundle\WebApi1.styles.css
+C:\Users\fxe19\source\repos\WebApi1\WebApi1\obj\Debug\net7.0\WebApi1.csproj.CopyComplete
+C:\Users\fxe19\source\repos\WebApi1\WebApi1\obj\Debug\net7.0\WebApi1.dll
+C:\Users\fxe19\source\repos\WebApi1\WebApi1\obj\Debug\net7.0\refint\WebApi1.dll
+C:\Users\fxe19\source\repos\WebApi1\WebApi1\obj\Debug\net7.0\WebApi1.pdb
+C:\Users\fxe19\source\repos\WebApi1\WebApi1\obj\Debug\net7.0\WebApi1.genruntimeconfig.cache
+C:\Users\fxe19\source\repos\WebApi1\WebApi1\obj\Debug\net7.0\ref\WebApi1.dll
+C:\Users\fxe19\source\repos\WebApi1\WebApi1\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\fxe19\source\repos\WebApi1\WebApi1\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\fxe19\source\repos\WebApi1\WebApi1\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\fxe19\source\repos\WebApi1\WebApi1\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\fxe19\source\repos\WebApi-enity framework\WebApi1\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\fxe19\source\repos\WebApi-enity framework\WebApi1\bin\Debug\net7.0\appsettings.json
+C:\Users\fxe19\source\repos\WebApi-enity framework\WebApi1\bin\Debug\net7.0\WebApi1.exe
+C:\Users\fxe19\source\repos\WebApi-enity framework\WebApi1\bin\Debug\net7.0\WebApi1.deps.json
+C:\Users\fxe19\source\repos\WebApi-enity framework\WebApi1\bin\Debug\net7.0\WebApi1.runtimeconfig.json
+C:\Users\fxe19\source\repos\WebApi-enity framework\WebApi1\bin\Debug\net7.0\WebApi1.dll
+C:\Users\fxe19\source\repos\WebApi-enity framework\WebApi1\bin\Debug\net7.0\WebApi1.pdb
+C:\Users\fxe19\source\repos\WebApi-enity framework\WebApi1\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\fxe19\source\repos\WebApi-enity framework\WebApi1\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\fxe19\source\repos\WebApi-enity framework\WebApi1\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\fxe19\source\repos\WebApi-enity framework\WebApi1\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\fxe19\source\repos\WebApi-enity framework\WebApi1\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\fxe19\source\repos\WebApi-enity framework\WebApi1\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\fxe19\source\repos\WebApi-enity framework\WebApi1\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\fxe19\source\repos\WebApi-enity framework\WebApi1\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\fxe19\source\repos\WebApi-enity framework\WebApi1\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\fxe19\source\repos\WebApi-enity framework\WebApi1\obj\Debug\net7.0\WebApi1.csproj.AssemblyReference.cache
+C:\Users\fxe19\source\repos\WebApi-enity framework\WebApi1\obj\Debug\net7.0\WebApi1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fxe19\source\repos\WebApi-enity framework\WebApi1\obj\Debug\net7.0\WebApi1.AssemblyInfoInputs.cache
+C:\Users\fxe19\source\repos\WebApi-enity framework\WebApi1\obj\Debug\net7.0\WebApi1.AssemblyInfo.cs
+C:\Users\fxe19\source\repos\WebApi-enity framework\WebApi1\obj\Debug\net7.0\WebApi1.csproj.CoreCompileInputs.cache
+C:\Users\fxe19\source\repos\WebApi-enity framework\WebApi1\obj\Debug\net7.0\WebApi1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\fxe19\source\repos\WebApi-enity framework\WebApi1\obj\Debug\net7.0\WebApi1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fxe19\source\repos\WebApi-enity framework\WebApi1\obj\Debug\net7.0\staticwebassets\msbuild.WebApi1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\fxe19\source\repos\WebApi-enity framework\WebApi1\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApi1.props
+C:\Users\fxe19\source\repos\WebApi-enity framework\WebApi1\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApi1.props
+C:\Users\fxe19\source\repos\WebApi-enity framework\WebApi1\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApi1.props
+C:\Users\fxe19\source\repos\WebApi-enity framework\WebApi1\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\fxe19\source\repos\WebApi-enity framework\WebApi1\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\fxe19\source\repos\WebApi-enity framework\WebApi1\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\fxe19\source\repos\WebApi-enity framework\WebApi1\obj\Debug\net7.0\scopedcss\bundle\WebApi1.styles.css
+C:\Users\fxe19\source\repos\WebApi-enity framework\WebApi1\obj\Debug\net7.0\WebApi1.csproj.CopyComplete
+C:\Users\fxe19\source\repos\WebApi-enity framework\WebApi1\obj\Debug\net7.0\WebApi1.dll
+C:\Users\fxe19\source\repos\WebApi-enity framework\WebApi1\obj\Debug\net7.0\refint\WebApi1.dll
+C:\Users\fxe19\source\repos\WebApi-enity framework\WebApi1\obj\Debug\net7.0\WebApi1.pdb
+C:\Users\fxe19\source\repos\WebApi-enity framework\WebApi1\obj\Debug\net7.0\WebApi1.genruntimeconfig.cache
+C:\Users\fxe19\source\repos\WebApi-enity framework\WebApi1\obj\Debug\net7.0\ref\WebApi1.dll
+C:\Users\fxe19\source\repos\WebApi-enity framework\WebApi1\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\fxe19\source\repos\WebApi-enity framework\WebApi1\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\fxe19\source\repos\WebApi-enity framework\WebApi1\bin\Debug\net7.0\Humanizer.dll
+C:\Users\fxe19\source\repos\WebApi-enity framework\WebApi1\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\fxe19\source\repos\WebApi-enity framework\WebApi1\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\fxe19\source\repos\WebApi-enity framework\WebApi1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\fxe19\source\repos\WebApi-enity framework\WebApi1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\fxe19\source\repos\WebApi-enity framework\WebApi1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\fxe19\source\repos\WebApi-enity framework\WebApi1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\fxe19\source\repos\WebApi-enity framework\WebApi1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\fxe19\source\repos\WebApi-enity framework\WebApi1\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\fxe19\source\repos\WebApi-enity framework\WebApi1\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\fxe19\source\repos\WebApi-enity framework\WebApi1\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\fxe19\source\repos\WebApi-enity framework\WebApi1\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\fxe19\source\repos\WebApi-enity framework\WebApi1\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\fxe19\source\repos\WebApi-enity framework\WebApi1\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\fxe19\source\repos\WebApi-enity framework\WebApi1\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\fxe19\source\repos\WebApi-enity framework\WebApi1\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\fxe19\source\repos\WebApi-enity framework\WebApi1\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\fxe19\source\repos\WebApi-enity framework\WebApi1\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\fxe19\source\repos\WebApi-enity framework\WebApi1\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\fxe19\source\repos\WebApi-enity framework\WebApi1\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\fxe19\source\repos\WebApi-enity framework\WebApi1\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\fxe19\source\repos\WebApi-enity framework\WebApi1\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\fxe19\source\repos\WebApi-enity framework\WebApi1\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\fxe19\source\repos\WebApi-enity framework\WebApi1\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\fxe19\source\repos\WebApi-enity framework\WebApi1\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\fxe19\source\repos\WebApi-enity framework\WebApi1\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\fxe19\source\repos\WebApi-enity framework\WebApi1\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\fxe19\source\repos\WebApi-enity framework\WebApi1\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\fxe19\source\repos\WebApi-enity framework\WebApi1\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\fxe19\source\repos\WebApi-enity framework\WebApi1\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\fxe19\source\repos\WebApi-enity framework\WebApi1\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\fxe19\source\repos\WebApi-enity framework\WebApi1\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\fxe19\source\repos\WebApi-enity framework\WebApi1\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\fxe19\source\repos\WebApi-enity framework\WebApi1\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\fxe19\source\repos\WebApi-enity framework\WebApi1\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\fxe19\source\repos\WebApi-enity framework\WebApi1\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\fxe19\source\repos\WebApi-enity framework\WebApi1\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\fxe19\source\repos\WebApi-enity framework\WebApi1\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\fxe19\source\repos\WebApi-enity framework\WebApi1\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\fxe19\source\repos\WebApi-enity framework\WebApi1\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\fxe19\source\repos\WebApi-enity framework\WebApi1\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fxe19\\source\\repos\\WebApi1\\WebApi1\\WebApi1.csproj": {}
+    "C:\\Users\\fxe19\\source\\repos\\WebApi-enity framework\\WebApi1\\WebApi1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fxe19\\source\\repos\\WebApi1\\WebApi1\\WebApi1.csproj": {
+    "C:\\Users\\fxe19\\source\\repos\\WebApi-enity framework\\WebApi1\\WebApi1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fxe19\\source\\repos\\WebApi1\\WebApi1\\WebApi1.csproj",
+        "projectUniqueName": "C:\\Users\\fxe19\\source\\repos\\WebApi-enity framework\\WebApi1\\WebApi1.csproj",
         "projectName": "WebApi1",
-        "projectPath": "C:\\Users\\fxe19\\source\\repos\\WebApi1\\WebApi1\\WebApi1.csproj",
+        "projectPath": "C:\\Users\\fxe19\\source\\repos\\WebApi-enity framework\\WebApi1\\WebApi1.csproj",
         "packagesPath": "C:\\Users\\fxe19\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fxe19\\source\\repos\\WebApi1\\WebApi1\\obj\\",
+        "outputPath": "C:\\Users\\fxe19\\source\\repos\\WebApi-enity framework\\WebApi1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fxe19\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -41,7 +41,25 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "Microsoft.AspNetCore.JsonPatch": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
             "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[7.0.9, )"
             },
