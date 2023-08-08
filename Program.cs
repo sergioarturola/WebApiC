@@ -1,4 +1,5 @@
 using Microsoft.EntityFrameworkCore;
+using WebApi1;
 using WebApi1.Data;
 
 /*
@@ -16,6 +17,9 @@ builder.Services.AddControllers().AddNewtonsoftJson();
 //le agregamos el servicio (libreria) de Swagger para los endpoints
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+
+//creando un nuevo servicio con builder + Services + nombreServicio
+builder.Services.AddAutoMapper(typeof(MappingConfig));
 
 //agregando un SERVICIO: vamos a relacionar nuestra cadena de conexion (del archivo aspsettings.json) con el modelo
 builder.Services.AddDbContext<AplicationDboContext>(option =>

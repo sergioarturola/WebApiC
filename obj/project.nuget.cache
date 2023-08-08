@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "8NuhryTLWaz3xarnEUAAt8zPq/NYrdUYj231wY8VCTHwc1djYnrr41nhk/ejyzFomJImE2KEgDxsnEskB6es6A==",
+  "dgSpecHash": "V6YMfmkkbf8Oq9oXt9vt4XFZo7NmYRwUFojxpJQkFWiiJEGCnMiOg1GXjqets6R+4xTsvUwOK/4qa3JNC5VmGw==",
   "success": true,
   "projectFilePath": "C:\\Users\\fxe19\\source\\repos\\WebApi-enity framework\\WebApi1\\WebApi1.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\fxe19\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\fxe19\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "C:\\Users\\fxe19\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\fxe19\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
     "C:\\Users\\fxe19\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
